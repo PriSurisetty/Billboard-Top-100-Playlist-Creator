@@ -6,7 +6,8 @@ and the script will scrape the Billboard Hot 100 chart for that day and generate
 [![Watch the video](https://via.placeholder.com/100x100)](https://github.com/user-attachments/assets/e0c20088-dce0-4cb4-9d24-de10c42a43b5)
 
 **The playlist will appear in your Spotify account after it's finished running**:
-<img width="910" alt="Screenshot 2024-08-11 at 11 43 45 AM" src="https://github.com/user-attachments/assets/d9125fed-040b-417b-b594-c29b98b3fb44">
+
+<img width="400" alt="Screenshot 2024-08-11 at 11 43 45 AM" src="https://github.com/user-attachments/assets/d9125fed-040b-417b-b594-c29b98b3fb44">
 
 
 ## Features:
