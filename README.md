@@ -4,11 +4,7 @@ This Python script allows you to create a Spotify playlist with the Billboard To
 and the script will scrape the Billboard Hot 100 chart for that day and generate a playlist on your Spotify account.
 
 
-<a href="https://github.com/user-attachments/assets/285f143a-60bb-47a8-81bf-b8d288645b3b" target="_blank">
-  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" width="480" />
-</a>
-
-
+[!Watch Me(https://via.placeholder.com/320x180)](https://github.com/user-attachments/assets/e0c20088-dce0-4cb4-9d24-de10c42a43b5)
 
 ## Features:
 
